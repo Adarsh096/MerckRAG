@@ -2,8 +2,7 @@
 Merck Manual Medical Diagnosis RAG Project
 
 🚀 Check live demo at: https://huggingface.co/spaces/AdarshRL/medical-diagnostic-rag-dashboard
-> As it is going to run on CPU backend, the final response may come over 3 minutes late. But, you can check out the cool things going on in the container logs at when you have fired up your query: https://huggingface.co/spaces/AdarshRL/medical-diagnostic-rag-dashboard?logs=container
-> 
+> As it is going to run on CPU backend, the final response may come over 3-5 minutes late. You can see all the steps that it will take before generating the response in the flow diagram below ⬇️⬇️
 ### Merck Manual
 The Merck Manuals represent one of the world's most enduring and comprehensive medical reference resources. Originally established in 1899 as a pocket-sized guide for physicians and pharmacists, the series has evolved into an expansive library covering a vast array of clinical disciplines, ranging from internal medicine and pediatrics to specialized pharmacology and surgical procedures.
 
